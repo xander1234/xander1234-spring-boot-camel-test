@@ -1,5 +1,5 @@
 spec:
   ports:
-    - port: 8086
+    - port: 8082
       name: rest
-      targetPort: 8086
+      targetPort: 8082
