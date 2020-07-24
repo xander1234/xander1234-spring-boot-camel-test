@@ -1,4 +1,4 @@
-package co.com.summan.routes;
+package io.fabric8.quickstarts.camel;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
