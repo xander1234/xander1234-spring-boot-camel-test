@@ -1,0 +1,209 @@
+{
+  "page": 1,
+  "total_results": 7568,
+  "total_pages": 379,
+  "results": [
+    {
+      "popularity": 41.448,
+      "vote_count": 673,
+      "video": false,
+      "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+      "id": 696374,
+      "adult": false,
+      "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+      "original_language": "en",
+      "original_title": "Gabriel's Inferno",
+      "genre_ids": [
+        10749
+      ],
+      "title": "Gabriel's Inferno",
+      "vote_average": 8.9,
+      "overview": "An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel's Inferno is a captivating and wildly passionate tale of one man's escape from his own personal hell as he tries to earn the impossible--forgiveness and love.",
+      "release_date": "2020-05-29"
+    },
+    {
+      "popularity": 29.914,
+      "vote_count": 230,
+      "video": false,
+      "poster_path": "/zGVbrulkupqpbwgiNedkJPyQum4.jpg",
+      "id": 592350,
+      "adult": false,
+      "backdrop_path": "/9guoVF7zayiiUq5ulKQpt375VIy.jpg",
+      "original_language": "ja",
+      "original_title": "My Hero Academia: Heroes Rising",
+      "genre_ids": [
+        28,
+        16
+      ],
+      "title": "My Hero Academia: Heroes Rising",
+      "vote_average": 8.9,
+      "overview": "Class 1-A visits Nabu Island where they finally get to do some real hero work. The place is so peaceful that it's more like a vacation … until they're attacked by a villain with an unfathomable Quirk! His power is eerily familiar, and it looks like Shigaraki had a hand in the plan. But with All Might retired and citizens' lives on the line, there's no time for questions. Deku and his friends are the next generation of heroes, and they're the island's only hope.",
+      "release_date": "2019-12-20"
+    },
+    {
+      "popularity": 15.549,
+      "vote_count": 2322,
+      "video": false,
+      "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+      "id": 19404,
+      "adult": false,
+      "backdrop_path": "/svYzz6A6xleZv5toTLAhigXd1DX.jpg",
+      "original_language": "hi",
+      "original_title": "Dilwale Dulhania Le Jayengeले जायेंगे",
+      "genre_ids": [
+        35,
+        18,
+        10749
+      ],
+      "title": "Dilwale Dulhania Le Jayenge",
+      "vote_average": 8.7,
+      "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "release_date": "1995-10-20"
+    },
+    {
+      "popularity": 48.203,
+      "vote_count": 16746,
+      "video": false,
+      "poster_path": "/5KCVkau1HEl7ZzfPsKAPM0sMiKc.jpg",
+      "id": 278,
+      "adult": false,
+      "backdrop_path": "/avedvodAZUcwqevBfm8p4G2NziQ.jpg",
+      "original_language": "en",
+      "original_title": "The Shawshank Redemption",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "title": "The Shawshank Redemption",
+      "vote_average": 8.7,
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "release_date": "1994-09-23"
+    },
+    {
+      "popularity": 42.608,
+      "vote_count": 12643,
+      "video": false,
+      "poster_path": "/iVZ3JAcAjmguGPnRNfWFOtLHOuY.jpg",
+      "id": 238,
+      "adult": false,
+      "backdrop_path": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+      "original_language": "en",
+      "original_title": "The Godfather",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "title": "The Godfather",
+      "vote_average": 8.7,
+      "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "release_date": "1972-03-14"
+    },
+    {
+      "popularity": 14.937,
+      "vote_count": 367,
+      "video": false,
+      "poster_path": "/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+      "id": 537061,
+      "adult": false,
+      "backdrop_path": "/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+      "original_language": "en",
+      "original_title": "Steven Universe: The Movie",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        35,
+        18,
+        14,
+        10402,
+        878,
+        10751,
+        10770
+      ],
+      "title": "Steven Universe: The Movie",
+      "vote_average": 8.6,
+      "overview": "Two years after the events of \"Change Your Mind\", Steven (now 16 years old) and his friends are ready to enjoy the rest of their lives peacefully. However, all of that changes when a new sinister Gem arrives, armed with a giant drill that saps the life force of all living things on Earth. In their biggest challenge ever, the Crystal Gems must work together to save all organic life on Earth within 48 hours.",
+      "release_date": "2019-09-02"
+    },
+    {
+      "popularity": 39.855,
+      "vote_count": 257,
+      "video": false,
+      "poster_path": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "id": 556574,
+      "adult": false,
+      "backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+      "original_language": "en",
+      "original_title": "Hamilton",
+      "genre_ids": [
+        18,
+        36,
+        10402
+      ],
+      "title": "Hamilton",
+      "vote_average": 8.6,
+      "overview": "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
+      "release_date": "2020-07-03"
+    },
+    {
+      "popularity": 28.887,
+      "vote_count": 10055,
+      "video": false,
+      "poster_path": "/c8Ass7acuOe4za6DhSattE359gr.jpg",
+      "id": 424,
+      "adult": false,
+      "backdrop_path": "/w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg",
+      "original_language": "en",
+      "original_title": "Schindler's List",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "title": "Schindler's List",
+      "vote_average": 8.6,
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "release_date": "1993-11-30"
+    },
+    {
+      "popularity": 44.538,
+      "vote_count": 6058,
+      "video": false,
+      "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+      "id": 372058,
+      "adult": false,
+      "backdrop_path": "/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+      "original_language": "ja",
+      "original_title": "君の名は。",
+      "genre_ids": [
+        16,
+        18,
+        10749
+      ],
+      "title": "Your Name.",
+      "vote_average": 8.6,
+      "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+      "release_date": "2016-08-26"
+    },
+    {
+      "popularity": 42.628,
+      "vote_count": 15925,
+      "video": false,
+      "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "id": 122,
+      "adult": false,
+      "backdrop_path": "/9DeGfFIqjph5CBFVQrD6wv9S7rR.jpg",
+      "original_language": "en",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "title": "The Lord of the Rings: The Return of the King",
+      "vote_average": 8.5,
+      "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+      "release_date": "2003-12-01"
+    }
+  ]
+}
