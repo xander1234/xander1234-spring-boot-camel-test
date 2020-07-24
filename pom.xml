@@ -93,6 +93,11 @@
             <artifactId>camel-swagger-java-starter</artifactId>
         </dependency>
 
+	<dependency>
+	  <groupId>io.hawt</groupId>
+	  <artifactId>hawtio-springboot</artifactId>
+	</dependency>
+	    
         <!-- Test -->
         <dependency>
             <groupId>junit</groupId>
