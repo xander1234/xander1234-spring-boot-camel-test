@@ -32,7 +32,7 @@ public class RestApp extends RouteBuilder{
 		    .apiProperty("cors", "false")		    
 			.component("jetty")				
 		    .host("localhost")
-			.port(8081)
+			.port(8082)
 		    .dataFormatProperty("json.in.disableFeatures", "FAIL_ON_UNKNOWN_PROPERTIES")
 		    .dataFormatProperty("prettyPrint", "true")
 		    
